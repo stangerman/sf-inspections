@@ -1,0 +1,77 @@
+[
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1531493430836,
+            "changeTime": 1531493430836,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1531493430836,
+            "changeTime": 1531493430836,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1531493430836,
+            "changeTime": 1531493430836,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1531493430836,
+            "changeTime": 1531493430836,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1531493560295,
+            "changeTime": 1531493560295,
+            "contentHash": "62533bf04610bd2b3dd430aef44fc35fe8f23ec0",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
