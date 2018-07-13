@@ -56,7 +56,7 @@
     <label>Inspection</label>
     <nameField>
         <displayFormat>I-{0000}</displayFormat>
-        <label>Inspection Name</label>
+        <label>Inspection Number</label>
         <trackHistory>false</trackHistory>
         <type>AutoNumber</type>
     </nameField>

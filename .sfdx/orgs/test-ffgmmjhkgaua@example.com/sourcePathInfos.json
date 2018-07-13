@@ -36,10 +36,10 @@
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 224,
-            "modifiedTime": 1531510658698,
-            "changeTime": 1531510658698,
-            "contentHash": "b937d71775c7065ff5fee41549cef80332ff4423"
+            "size": 352,
+            "modifiedTime": 1531518053882,
+            "changeTime": 1531518053882,
+            "contentHash": "b00e89772347ffc4986056363509109703f827aa"
         }
     ],
     [
@@ -75,92 +75,92 @@
     [
         "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/standardValueSets/AccountType.standardValueSet-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/standardValueSets/AccountType.standardValueSet-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1461,
             "modifiedTime": 1531510658609,
             "changeTime": 1531510658609,
-            "contentHash": "588fe4fb57afd0b52cf2c58d25f7cc37e1b748f7"
+            "contentHash": "588fe4fb57afd0b52cf2c58d25f7cc37e1b748f7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Observation__c/Observation__c.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Observation__c/Observation__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2275,
             "modifiedTime": 1531510658621,
             "changeTime": 1531510658621,
-            "contentHash": "a2b3bf9546d40e4a213d42da93e3c50bca116f4f"
+            "contentHash": "a2b3bf9546d40e4a213d42da93e3c50bca116f4f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Observation__c/fields/Attribute__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Observation__c/fields/Attribute__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 517,
             "modifiedTime": 1531510658622,
             "changeTime": 1531510658622,
-            "contentHash": "124bc4dffc3771717b08b3b128a1cb3cef74b1dd"
+            "contentHash": "124bc4dffc3771717b08b3b128a1cb3cef74b1dd",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Observation__c/fields/Inspection__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Observation__c/fields/Inspection__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 698,
             "modifiedTime": 1531510658622,
             "changeTime": 1531510658622,
-            "contentHash": "741e47944f931c2bf826cf0216b92be66451b84b"
+            "contentHash": "741e47944f931c2bf826cf0216b92be66451b84b",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Borrower__c/Borrower__c.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Borrower__c/Borrower__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2218,
             "modifiedTime": 1531510658626,
             "changeTime": 1531510658626,
-            "contentHash": "67a4cf780192fb2754bf8b65796a1e9acbdbf246"
+            "contentHash": "67a4cf780192fb2754bf8b65796a1e9acbdbf246",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/LenderAttributeSet__c/LenderAttributeSet__c.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/LenderAttributeSet__c/LenderAttributeSet__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2319,
             "modifiedTime": 1531510658630,
             "changeTime": 1531510658630,
-            "contentHash": "94918dc3c84fea4f22abaeab6e33aafdd3c0bfb4"
+            "contentHash": "94918dc3c84fea4f22abaeab6e33aafdd3c0bfb4",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/LenderAttributeSet__c/fields/Attribute__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/LenderAttributeSet__c/fields/Attribute__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 570,
             "modifiedTime": 1531510658630,
             "changeTime": 1531510658630,
-            "contentHash": "85207c0185520653e773d5e217c688385a7fa270"
+            "contentHash": "85207c0185520653e773d5e217c688385a7fa270",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -170,101 +170,101 @@
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspection__c/Inspection__c.object-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 2341,
-            "modifiedTime": 1531510658636,
-            "changeTime": 1531510658636,
-            "contentHash": "bede306db93474baabcc919c643a9712df6e4dab"
+            "size": 2343,
+            "modifiedTime": 1531518053746,
+            "changeTime": 1531518053746,
+            "contentHash": "0b8de12c4e974c9644fc15d56100a33cfddd8711"
         }
     ],
     [
         "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspection__c/fields/Inspector__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspection__c/fields/Inspector__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 554,
             "modifiedTime": 1531510658637,
             "changeTime": 1531510658637,
-            "contentHash": "276073be9743b1e4658434648b995e6f307b4ae5"
+            "contentHash": "276073be9743b1e4658434648b995e6f307b4ae5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspection__c/fields/Property__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspection__c/fields/Property__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 646,
             "modifiedTime": 1531510658637,
             "changeTime": 1531510658637,
-            "contentHash": "710c8be1b8b714aa9804012f96a70cf46dd1adee"
+            "contentHash": "710c8be1b8b714aa9804012f96a70cf46dd1adee",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Property__c/Property__c.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Property__c/Property__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2236,
             "modifiedTime": 1531510658658,
             "changeTime": 1531510658658,
-            "contentHash": "1f48ec3649910a21f9e8348c59eac322ce4e6238"
+            "contentHash": "1f48ec3649910a21f9e8348c59eac322ce4e6238",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Property__c/fields/Borrower__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Property__c/fields/Borrower__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 549,
             "modifiedTime": 1531510658669,
             "changeTime": 1531510658669,
-            "contentHash": "4226bccbc1219ef082e8b7a3c6b67928999cc986"
+            "contentHash": "4226bccbc1219ef082e8b7a3c6b67928999cc986",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Property__c/fields/Inspector__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Property__c/fields/Inspector__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 633,
             "modifiedTime": 1531510658670,
             "changeTime": 1531510658670,
-            "contentHash": "39758d3847720750dca2bf4d6890a4591fe59356"
+            "contentHash": "39758d3847720750dca2bf4d6890a4591fe59356",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Property__c/fields/Lender__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Property__c/fields/Lender__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 891,
             "modifiedTime": 1531510658670,
             "changeTime": 1531510658670,
-            "contentHash": "60f29e06b59db169e2acdf7ff74c09ad6e38c221"
+            "contentHash": "60f29e06b59db169e2acdf7ff74c09ad6e38c221",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Attribute__c/Attribute__c.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Attribute__c/Attribute__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2247,
             "modifiedTime": 1531510658676,
             "changeTime": 1531510658676,
-            "contentHash": "8f02ea51fad23777744748d06e20689992cbe16d"
+            "contentHash": "8f02ea51fad23777744748d06e20689992cbe16d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -274,10 +274,10 @@
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspector__c/Inspector__c.object-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 2261,
-            "modifiedTime": 1531510658680,
-            "changeTime": 1531510658680,
-            "contentHash": "306bb44d8f53b2ce38245f2f21efffb4eed1400e"
+            "size": 2279,
+            "modifiedTime": 1531518053767,
+            "changeTime": 1531518053767,
+            "contentHash": "dd4230fc8e628fab1e9c0f6fd825e962ecf2c49d"
         }
     ],
     [
@@ -287,10 +287,10 @@
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/layouts/Inspector__c-Inspector Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 2744,
-            "modifiedTime": 1531510658684,
-            "changeTime": 1531510658684,
-            "contentHash": "f2624576b584df23205f02afec2db5800faf2779"
+            "size": 4531,
+            "modifiedTime": 1531518053782,
+            "changeTime": 1531518053782,
+            "contentHash": "c56f718ab72adf822ef41ee8a40285fec1f73abf"
         }
     ],
     [
@@ -300,49 +300,49 @@
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/layouts/Borrower__c-Borrower Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 2744,
-            "modifiedTime": 1531510658686,
-            "changeTime": 1531510658686,
-            "contentHash": "f2624576b584df23205f02afec2db5800faf2779"
+            "size": 3141,
+            "modifiedTime": 1531518053797,
+            "changeTime": 1531518053797,
+            "contentHash": "74dcb5089e75c079a1a9e72d1ec9c890e2a100c0"
         }
     ],
     [
         "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/layouts/Observation__c-Observation Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/layouts/Observation__c-Observation Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2007,
             "modifiedTime": 1531510658688,
             "changeTime": 1531510658688,
-            "contentHash": "49b35be83a117ccd5deb1dc19068f9f170b76591"
+            "contentHash": "49b35be83a117ccd5deb1dc19068f9f170b76591",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/layouts/LenderAttributeSet__c-LenderAttributeSet Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/layouts/LenderAttributeSet__c-LenderAttributeSet Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2654,
             "modifiedTime": 1531510658690,
             "changeTime": 1531510658690,
-            "contentHash": "28575ef244e6c8cff05aecb18a733606d2593b2e"
+            "contentHash": "28575ef244e6c8cff05aecb18a733606d2593b2e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/layouts/Attribute__c-Attribute Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/layouts/Attribute__c-Attribute Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1947,
             "modifiedTime": 1531510658692,
             "changeTime": 1531510658692,
-            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff"
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -352,10 +352,10 @@
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/layouts/Property__c-Property Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 2796,
-            "modifiedTime": 1531510658694,
-            "changeTime": 1531510658694,
-            "contentHash": "575907ad211ddcad883ee3b9a1b2107c0ff56ab7"
+            "size": 3968,
+            "modifiedTime": 1531518053806,
+            "changeTime": 1531518053806,
+            "contentHash": "49c6fd84e789d488b64ddc6e10c3e31c074681f5"
         }
     ],
     [
@@ -365,10 +365,10 @@
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/layouts/Inspection__c-Inspection Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 2800,
-            "modifiedTime": 1531510658696,
-            "changeTime": 1531510658696,
-            "contentHash": "5f97cae2da3eb3e49f025693a963b2b378c41c38"
+            "size": 3649,
+            "modifiedTime": 1531518053812,
+            "changeTime": 1531518053812,
+            "contentHash": "4b0442cc95224cc98af1315e0233dc6c3903e4e6"
         }
     ],
     [
@@ -378,10 +378,10 @@
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 5783,
-            "modifiedTime": 1531510658699,
-            "changeTime": 1531510658699,
-            "contentHash": "300a40cbd02253aa018aa10204be293499e2038c"
+            "size": 9387,
+            "modifiedTime": 1531518053833,
+            "changeTime": 1531518053833,
+            "contentHash": "d1b1aa988dfa384f4048a1381d1c3bbcf2debc75"
         }
     ],
     [
@@ -391,10 +391,10 @@
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 5783,
-            "modifiedTime": 1531510658706,
-            "changeTime": 1531510658706,
-            "contentHash": "300a40cbd02253aa018aa10204be293499e2038c"
+            "size": 9387,
+            "modifiedTime": 1531518053840,
+            "changeTime": 1531518053840,
+            "contentHash": "d1b1aa988dfa384f4048a1381d1c3bbcf2debc75"
         }
     ],
     [
@@ -404,10 +404,10 @@
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 21555,
-            "modifiedTime": 1531510658720,
-            "changeTime": 1531510658720,
-            "contentHash": "ea8d436f30ec779f37c8588001a2126be4c0bb27"
+            "size": 25255,
+            "modifiedTime": 1531518053871,
+            "changeTime": 1531518053871,
+            "contentHash": "b1d4df5c5d2ec8ddff7e13720bde5afe4ee0618d"
         }
     ],
     [
@@ -417,49 +417,49 @@
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 6121,
-            "modifiedTime": 1531510658724,
-            "changeTime": 1531510658724,
-            "contentHash": "142dc135ed71ef7a5ac1151737e18a588ef4a7a8"
+            "size": 9725,
+            "modifiedTime": 1531518053881,
+            "changeTime": 1531518053881,
+            "contentHash": "5303fb6b7ae92da4f0d95b5e271a0d5ccfa56dd8"
         }
     ],
     [
         "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/standardValueSets",
         {
-            "state": "u",
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/standardValueSets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1531510658609,
             "changeTime": 1531510658609,
-            "contentHash": "e89d38b8a63980d0e7a2d2d32bd0518e8b2daaa0"
+            "contentHash": "e89d38b8a63980d0e7a2d2d32bd0518e8b2daaa0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Observation__c",
         {
-            "state": "u",
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Observation__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1531510658621,
             "changeTime": 1531510658621,
-            "contentHash": "ad85cf1121090178123f65a9bece870a5eab8a57"
+            "contentHash": "ad85cf1121090178123f65a9bece870a5eab8a57",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects",
         {
-            "state": "u",
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 288,
             "modifiedTime": 1531510658679,
             "changeTime": 1531510658679,
-            "contentHash": "04ee1395279aba83504d7dc197089fe3be21e4e3"
+            "contentHash": "04ee1395279aba83504d7dc197089fe3be21e4e3",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -469,10 +469,10 @@
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Observation__c/fields",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 128,
-            "modifiedTime": 1531510658622,
-            "changeTime": 1531510658622,
-            "contentHash": "c333d6292892b4d8bb1800e0ffe92ab9b530192f"
+            "size": 160,
+            "modifiedTime": 1531518053730,
+            "changeTime": 1531518053730,
+            "contentHash": "09ae1408216873fc5218a692e7f3799aff4564c2"
         }
     ],
     [
@@ -482,23 +482,23 @@
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Borrower__c",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 96,
-            "modifiedTime": 1531510658625,
-            "changeTime": 1531510658625,
-            "contentHash": "0e0b0c67160a356084f64a9c00eb9cfc5e158be9"
+            "size": 128,
+            "modifiedTime": 1531518053733,
+            "changeTime": 1531518053733,
+            "contentHash": "d2b005866fff3f37db0ea845b0b050759968b6a4"
         }
     ],
     [
         "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/LenderAttributeSet__c",
         {
-            "state": "u",
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/LenderAttributeSet__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1531510658630,
             "changeTime": 1531510658630,
-            "contentHash": "3919fafda35056b23ac8379583c7deb4abd7e64e"
+            "contentHash": "3919fafda35056b23ac8379583c7deb4abd7e64e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -508,10 +508,10 @@
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/LenderAttributeSet__c/fields",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 96,
-            "modifiedTime": 1531510658630,
-            "changeTime": 1531510658630,
-            "contentHash": "83ab21f5f3f8c4c705740cf4f3e723c677e5c6e8"
+            "size": 128,
+            "modifiedTime": 1531518053737,
+            "changeTime": 1531518053737,
+            "contentHash": "340a6ee79d590e22a3a30294fe683eb4ed6f2278"
         }
     ],
     [
@@ -521,10 +521,10 @@
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspection__c",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 128,
-            "modifiedTime": 1531510658637,
-            "changeTime": 1531510658637,
-            "contentHash": "519307fb40d0cfc3a6bc290bb4f964c435b94214"
+            "size": 160,
+            "modifiedTime": 1531518053747,
+            "changeTime": 1531518053747,
+            "contentHash": "80d608481e70367e6087dd6f40fbf44a6ab377ec"
         }
     ],
     [
@@ -534,10 +534,10 @@
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspection__c/fields",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 128,
-            "modifiedTime": 1531510658637,
-            "changeTime": 1531510658637,
-            "contentHash": "48dada3d87ed149b3ff83432959fd96fed53860e"
+            "size": 192,
+            "modifiedTime": 1531518053747,
+            "changeTime": 1531518053747,
+            "contentHash": "5ff6dced5e5166ccc8399c3c949166559b2036c7"
         }
     ],
     [
@@ -547,10 +547,10 @@
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Property__c",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 128,
-            "modifiedTime": 1531510658668,
-            "changeTime": 1531510658668,
-            "contentHash": "4051fda231d4d7e2653c08af5b1f57b62bda9985"
+            "size": 160,
+            "modifiedTime": 1531518053751,
+            "changeTime": 1531518053751,
+            "contentHash": "1518a3414dacc82c25ffae0c1e87769cb4a342b8"
         }
     ],
     [
@@ -560,23 +560,23 @@
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Property__c/fields",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 160,
-            "modifiedTime": 1531510658670,
-            "changeTime": 1531510658670,
-            "contentHash": "001965081ac1108bf362222bd000bbe2e6509f89"
+            "size": 288,
+            "modifiedTime": 1531518053752,
+            "changeTime": 1531518053752,
+            "contentHash": "775d25cdb8831a4905dc7fa2379d52c63535bf1e"
         }
     ],
     [
         "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Attribute__c",
         {
-            "state": "u",
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Attribute__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1531510658676,
             "changeTime": 1531510658676,
-            "contentHash": "4b21e2c4444bfb7d2fba4691a1508a6a4ce2cfd5"
+            "contentHash": "4b21e2c4444bfb7d2fba4691a1508a6a4ce2cfd5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -586,10 +586,10 @@
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspector__c",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 96,
-            "modifiedTime": 1531510658680,
-            "changeTime": 1531510658680,
-            "contentHash": "feea7c69f8524357960423edda593d7b87cd4673"
+            "size": 160,
+            "modifiedTime": 1531518053768,
+            "changeTime": 1531518053768,
+            "contentHash": "5f60185e9de0526422e025d04a2a78853919d8e5"
         }
     ],
     [
@@ -599,23 +599,569 @@
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/layouts",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 288,
-            "modifiedTime": 1531510658696,
-            "changeTime": 1531510658696,
-            "contentHash": "f69178993bb737abf7d2157df3630610c159f288"
+            "size": 320,
+            "modifiedTime": 1531518053793,
+            "changeTime": 1531518053793,
+            "contentHash": "9eb3ada80446f25e881a2b59710772139c542487"
         }
     ],
     [
         "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/profiles",
         {
-            "state": "u",
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1531510658723,
             "changeTime": 1531510658723,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Observation__c/fields/Value__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Observation__c/fields/Value__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 450,
+            "modifiedTime": 1531518053730,
+            "changeTime": 1531518053730,
+            "contentHash": "1f0371046355d82f7e5cc07a31a4fc979c9c398b"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Borrower__c/fields/Email__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Borrower__c/fields/Email__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 371,
+            "modifiedTime": 1531518053734,
+            "changeTime": 1531518053734,
+            "contentHash": "ed864bee6b7faf2d8c7b6d6f1f5cae6e9ce98f35"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Borrower__c/fields/First_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Borrower__c/fields/First_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 404,
+            "modifiedTime": 1531518053734,
+            "changeTime": 1531518053734,
+            "contentHash": "737bd941cecafc231f133acb40f074e34355223f"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Borrower__c/fields/Last_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Borrower__c/fields/Last_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 402,
+            "modifiedTime": 1531518053734,
+            "changeTime": 1531518053734,
+            "contentHash": "dd13c29d46ef655cc34b65778026c17f52c86156"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Borrower__c/fields/Mobile_Phone__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Borrower__c/fields/Mobile_Phone__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 358,
+            "modifiedTime": 1531518053734,
+            "changeTime": 1531518053734,
+            "contentHash": "9440bb6268b663eee1a6228b98038b5898a0621c"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Borrower__c/fields/Office_Phone__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Borrower__c/fields/Office_Phone__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 358,
+            "modifiedTime": 1531518053735,
+            "changeTime": 1531518053735,
+            "contentHash": "d8091c6600308ac07d4228a563e818f5d0601901"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/LenderAttributeSet__c/fields/LenderLabel__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/LenderAttributeSet__c/fields/LenderLabel__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 429,
+            "modifiedTime": 1531518053737,
+            "changeTime": 1531518053737,
+            "contentHash": "14347d2dcb5edb993c3aa4bb1745fb25c1a693e0"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspection__c/compactLayouts/Inspection_Compact_Layout.compactLayout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspection__c/compactLayouts/Inspection_Compact_Layout.compactLayout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 338,
+            "modifiedTime": 1531518053747,
+            "changeTime": 1531518053747,
+            "contentHash": "58aab15bf3bcbf3f1e13e5646f43901b1abeca11"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspection__c/fields/Date__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspection__c/fields/Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 340,
+            "modifiedTime": 1531518053747,
+            "changeTime": 1531518053747,
+            "contentHash": "25980bca42feeba53732d3f3a7c5726c487ef266"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspection__c/fields/Time__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspection__c/fields/Time__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 341,
+            "modifiedTime": 1531518053747,
+            "changeTime": 1531518053747,
+            "contentHash": "812ddeb393817b0035f13dd4af9eea63154bce86"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Property__c/compactLayouts/Property_Compact_Layout.compactLayout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Property__c/compactLayouts/Property_Compact_Layout.compactLayout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 336,
+            "modifiedTime": 1531518053751,
+            "changeTime": 1531518053751,
+            "contentHash": "f6bfeb51c13c5cfdfacde6a11afe14af49a7d714"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Property__c/fields/City__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Property__c/fields/City__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 391,
+            "modifiedTime": 1531518053751,
+            "changeTime": 1531518053751,
+            "contentHash": "74d638753a8f4f8df5fd8e41463547f36842c869"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Property__c/fields/State__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Property__c/fields/State__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 392,
+            "modifiedTime": 1531518053751,
+            "changeTime": 1531518053751,
+            "contentHash": "af11d0792715abafd98b598f19f6c3025425656c"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Property__c/fields/Street_Address__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Property__c/fields/Street_Address__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 411,
+            "modifiedTime": 1531518053752,
+            "changeTime": 1531518053752,
+            "contentHash": "268176d1c224541837b5f101d6b16bcbca56ae77"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Property__c/fields/Zip_Code__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Property__c/fields/Zip_Code__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 399,
+            "modifiedTime": 1531518053752,
+            "changeTime": 1531518053752,
+            "contentHash": "8bbd33782ebc3a94756854fd7164173e9b90f0c9"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspector__c/compactLayouts/Inspector_Compact_Layout.compactLayout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspector__c/compactLayouts/Inspector_Compact_Layout.compactLayout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 344,
+            "modifiedTime": 1531518053768,
+            "changeTime": 1531518053768,
+            "contentHash": "c7f0e7dc48beea85f432a2f9f735b64a8d571d21"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspector__c/fields/City__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspector__c/fields/City__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 392,
+            "modifiedTime": 1531518053769,
+            "changeTime": 1531518053769,
+            "contentHash": "271171ecba71be39b9b442620e4932d70412e4a1"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspector__c/fields/Email__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspector__c/fields/Email__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 371,
+            "modifiedTime": 1531518053770,
+            "changeTime": 1531518053770,
+            "contentHash": "ed864bee6b7faf2d8c7b6d6f1f5cae6e9ce98f35"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspector__c/fields/First_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspector__c/fields/First_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 404,
+            "modifiedTime": 1531518053770,
+            "changeTime": 1531518053770,
+            "contentHash": "737bd941cecafc231f133acb40f074e34355223f"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspector__c/fields/Last_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspector__c/fields/Last_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 402,
+            "modifiedTime": 1531518053770,
+            "changeTime": 1531518053770,
+            "contentHash": "dd13c29d46ef655cc34b65778026c17f52c86156"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspector__c/fields/Mobile_Phone__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspector__c/fields/Mobile_Phone__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 358,
+            "modifiedTime": 1531518053771,
+            "changeTime": 1531518053771,
+            "contentHash": "9440bb6268b663eee1a6228b98038b5898a0621c"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspector__c/fields/Office_Phone__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspector__c/fields/Office_Phone__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 358,
+            "modifiedTime": 1531518053771,
+            "changeTime": 1531518053771,
+            "contentHash": "d8091c6600308ac07d4228a563e818f5d0601901"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspector__c/fields/State__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspector__c/fields/State__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 393,
+            "modifiedTime": 1531518053771,
+            "changeTime": 1531518053771,
+            "contentHash": "edad3499978d679614261407ba6a37f4ccc7c514"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspector__c/fields/Street_Address__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspector__c/fields/Street_Address__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 412,
+            "modifiedTime": 1531518053772,
+            "changeTime": 1531518053772,
+            "contentHash": "6a01edbdfbf960abc9591f7e130996786b524b3e"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspector__c/fields/Zip_Code__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspector__c/fields/Zip_Code__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 399,
+            "modifiedTime": 1531518053772,
+            "changeTime": 1531518053772,
+            "contentHash": "8bbd33782ebc3a94756854fd7164173e9b90f0c9"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9670,
+            "modifiedTime": 1531518053793,
+            "changeTime": 1531518053793,
+            "contentHash": "41a723c4c78890b0b3cad7edceff89895f62a3fe"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/flexipages/Inspections_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/flexipages/Inspections_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5111,
+            "modifiedTime": 1531518053815,
+            "changeTime": 1531518053815,
+            "contentHash": "dc20fd937690af0c7e1de7b305ec22c12eeb741f"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/tabs/Inspection__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/tabs/Inspection__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 226,
+            "modifiedTime": 1531518053817,
+            "changeTime": 1531518053817,
+            "contentHash": "c50adc847e28ce70b3f306ad5b86299fd38fc876"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/tabs/Borrower__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/tabs/Borrower__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 230,
+            "modifiedTime": 1531518053818,
+            "changeTime": 1531518053818,
+            "contentHash": "0a4cb7e6dbba7d8b05b1d4e9b778f9f80a9065d8"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/tabs/Property__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/tabs/Property__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 233,
+            "modifiedTime": 1531518053819,
+            "changeTime": 1531518053819,
+            "contentHash": "11977e44e3c2b694b10dcce2bba0764909a199f1"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/tabs/Inspector__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/tabs/Inspector__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 223,
+            "modifiedTime": 1531518053820,
+            "changeTime": 1531518053820,
+            "contentHash": "6e6ce36238c68c3363a64744a7072e1a6ec83ae1"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/applications/Inspections.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/applications/Inspections.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 731,
+            "modifiedTime": 1531518053821,
+            "changeTime": 1531518053821,
+            "contentHash": "b1786e37f05cf5cd16d37cd90fd6dbe7f7826b82"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/permissionsets/Inspections.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/permissionsets/Inspections.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3444,
+            "modifiedTime": 1531518053883,
+            "changeTime": 1531518053883,
+            "contentHash": "7263fe9668d185803b883c05e8b201846dca5f59"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Borrower__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Borrower__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1531518053734,
+            "changeTime": 1531518053734,
+            "contentHash": "31281afbbff074629c2ba1c2e9b017e3bc42ac1b"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspection__c/compactLayouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspection__c/compactLayouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1531518053747,
+            "changeTime": 1531518053747,
+            "contentHash": "e3b01c8c9d1df0f429506ddd3ed0e9dbca2f0c85"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Property__c/compactLayouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Property__c/compactLayouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1531518053751,
+            "changeTime": 1531518053751,
+            "contentHash": "6090013c56ec66c627fbb64f1e135c3d4e595eb8"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspector__c/compactLayouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspector__c/compactLayouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1531518053768,
+            "changeTime": 1531518053768,
+            "contentHash": "634ced85c90a52d02eef780abcd7cf5dfe9a8f97"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspector__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Inspector__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1531518053772,
+            "changeTime": 1531518053772,
+            "contentHash": "b88bdfa9512c4cf54d300d60c9699a946d5995a8"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/flexipages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1531518053815,
+            "changeTime": 1531518053815,
+            "contentHash": "a06f9388e028d1d018a3b75a274ca6fdef2fcc3c"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1531518053820,
+            "changeTime": 1531518053820,
+            "contentHash": "d0e85b822000e14f06463d78a60608ef5d2590fc"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/applications",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1531518053821,
+            "changeTime": 1531518053821,
+            "contentHash": "9e79e0c609c4f69aa89ce8351eaf27e37d4a1e10"
+        }
+    ],
+    [
+        "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1531518053883,
+            "changeTime": 1531518053883,
+            "contentHash": "c18d61c52a4378efd6c7a3d3b145381721cb32d3"
         }
     ]
 ]
