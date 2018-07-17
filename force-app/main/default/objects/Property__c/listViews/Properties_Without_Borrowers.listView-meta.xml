@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Properties_Without_Borrowers</fullName>
+    <columns>NAME</columns>
+    <columns>Lender__c</columns>
+    <columns>Borrower__c</columns>
+    <columns>Inspector__c</columns>
+    <filterScope>Mine</filterScope>
+    <filters>
+        <field>Borrower__c</field>
+        <operation>equals</operation>
+    </filters>
+    <label>Properties Without Borrowers</label>
+</ListView>

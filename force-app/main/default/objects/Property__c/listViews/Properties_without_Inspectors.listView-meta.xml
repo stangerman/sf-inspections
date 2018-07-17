@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Properties_without_Inspectors</fullName>
+    <columns>NAME</columns>
+    <columns>Lender__c</columns>
+    <columns>Inspector__c</columns>
+    <filterScope>Mine</filterScope>
+    <filters>
+        <field>Inspector__c</field>
+        <operation>equals</operation>
+    </filters>
+    <label>Properties without Inspectors</label>
+</ListView>
