@@ -1322,29 +1322,31 @@
     [
         "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Property__c/listViews/Properties_Without_Borrowers.listView-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Property__c/listViews/Properties_Without_Borrowers.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 488,
             "modifiedTime": 1532542985565,
             "changeTime": 1532542985565,
+            "contentHash": "bb5d2eddc309af95f4ab671de223fbe6a8bcfd22",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
-            "contentHash": "bb5d2eddc309af95f4ab671de223fbe6a8bcfd22"
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Property__c/listViews/Properties_without_Inspectors.listView-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/objects/Property__c/listViews/Properties_without_Inspectors.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 456,
             "modifiedTime": 1532542985565,
             "changeTime": 1532542985565,
+            "contentHash": "e33791c4ec079a7f4af3484922654f937fd42f1f",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
-            "contentHash": "e33791c4ec079a7f4af3484922654f937fd42f1f"
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1365,16 +1367,14 @@
     [
         "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/permissionsets/Inspections.permissionset-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/stangerman/SalesForceProjects/inspections/force-app/main/default/permissionsets/Inspections.permissionset-meta.xml",
             "isDirectory": false,
-            "size": 3444,
-            "modifiedTime": 1531518053883,
-            "changeTime": 1531518053883,
-            "contentHash": "7263fe9668d185803b883c05e8b201846dca5f59",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 3214,
+            "modifiedTime": 1532545795108,
+            "changeTime": 1532545795108,
+            "contentHash": "d8d4479272d046a0c5a4956c3041354b08eea0d1"
         }
     ],
     [
