@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "Borrower__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "seed-data-Borrower__cs.json"
+        ]
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "Inspector__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "seed-data-Inspector__cs.json"
+        ]
+    }
+]

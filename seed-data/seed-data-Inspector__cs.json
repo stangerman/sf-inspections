@@ -1,0 +1,20 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Inspector__c",
+                "referenceId": "Inspector__cRef1"
+            },
+            "City__c": "Huntsville",
+            "Email__c": "gdaddy@gmail.com",
+            "First_Name__c": "Randy",
+            "Name": "Randy Dickson",
+            "Last_Name__c": "Dickson",
+            "Mobile_Phone__c": "234-233-5322",
+            "Office_Phone__c": "234-233-5322",
+            "State__c": "AL",
+            "Street_Address__c": "111 Dortmund",
+            "Zip_Code__c": "23425"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Borrower__c",
+                "referenceId": "Borrower__cRef1"
+            },
+            "Name": "Bob Vila",
+            "Email__c": "goodglass@yahoo.com",
+            "First_Name__c": "Bob",
+            "Last_Name__c": "Vila",
+            "Mobile_Phone__c": "324-342-7845"
+        },
+        {
+            "attributes": {
+                "type": "Borrower__c",
+                "referenceId": "Borrower__cRef2"
+            },
+            "Name": "Lance James",
+            "Email__c": "lj234@gmail.com",
+            "First_Name__c": "Lance",
+            "Last_Name__c": "James",
+            "Mobile_Phone__c": "234-353-5533"
+        },
+        {
+            "attributes": {
+                "type": "Borrower__c",
+                "referenceId": "Borrower__cRef3"
+            },
+            "Name": "Jeremy Smith",
+            "Email__c": "jsmith@gmail.com",
+            "First_Name__c": "Jeremy",
+            "Last_Name__c": "Smith",
+            "Mobile_Phone__c": "236-573-2345"
+        },
+        {
+            "attributes": {
+                "type": "Borrower__c",
+                "referenceId": "Borrower__cRef4"
+            },
+            "Name": "Rosco Hutchins",
+            "Email__c": "bighutch@aol.com",
+            "First_Name__c": "Rosco",
+            "Last_Name__c": "Hutchins",
+            "Mobile_Phone__c": "235-857-2342"
+        },
+        {
+            "attributes": {
+                "type": "Borrower__c",
+                "referenceId": "Borrower__cRef5"
+            },
+            "Name": "Jeffrey Lebowski",
+            "Email__c": "thedude@gmail.com",
+            "First_Name__c": "Jeffrey",
+            "Last_Name__c": "Lebowski",
+            "Mobile_Phone__c": "234-878-7766"
+        },
+        {
+            "attributes": {
+                "type": "Borrower__c",
+                "referenceId": "Borrower__cRef6"
+            },
+            "Name": "Maude Lebowski",
+            "Email__c": "mlebowski@gmail.com",
+            "First_Name__c": "Maude",
+            "Last_Name__c": "Lebowski",
+            "Mobile_Phone__c": "234-432-8844"
+        }
+    ]
+}
