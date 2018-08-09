@@ -35,7 +35,7 @@
             <processMetadataValues>
                 <name>leftHandSideLabel</name>
                 <value>
-                    <stringValue>varInspectionID</stringValue>
+                    <stringValue>varPropertyID</stringValue>
                 </value>
             </processMetadataValues>
             <processMetadataValues>
@@ -56,9 +56,9 @@
                     <stringValue>Reference</stringValue>
                 </value>
             </processMetadataValues>
-            <name>varInspectionID</name>
+            <name>varPropertyID</name>
             <value>
-                <elementReference>myVariable_current.Id</elementReference>
+                <elementReference>myVariable_current.Property__r.Id</elementReference>
             </value>
         </inputParameters>
     </actionCalls>
@@ -94,25 +94,44 @@
             <name>myRule_1</name>
             <conditionLogic>and</conditionLogic>
             <conditions>
-                <leftValueReference>formula_myRule_1</leftValueReference>
-                <operator>EqualTo</operator>
+                <processMetadataValues>
+                    <name>inputDataType</name>
+                    <value>
+                        <stringValue>Boolean</stringValue>
+                    </value>
+                </processMetadataValues>
+                <processMetadataValues>
+                    <name>leftHandSideType</name>
+                    <value>
+                        <stringValue>ID</stringValue>
+                    </value>
+                </processMetadataValues>
+                <processMetadataValues>
+                    <name>operatorDataType</name>
+                    <value>
+                        <stringValue>String</stringValue>
+                    </value>
+                </processMetadataValues>
+                <processMetadataValues>
+                    <name>rightHandSideType</name>
+                    <value>
+                        <stringValue>Boolean</stringValue>
+                    </value>
+                </processMetadataValues>
+                <leftValueReference>myVariable_current.Property__r.Id</leftValueReference>
+                <operator>IsNull</operator>
                 <rightValue>
-                    <booleanValue>true</booleanValue>
+                    <booleanValue>false</booleanValue>
                 </rightValue>
             </conditions>
             <connector>
                 <targetReference>myRule_1_A1</targetReference>
             </connector>
-            <label>DefaultCriteria</label>
+            <label>Property ID Set</label>
         </rules>
     </decisions>
     <description>Creates all the neccessary observation records for the attributes for a particular lender to perform an inspection</description>
-    <formulas>
-        <name>formula_myRule_1</name>
-        <dataType>Boolean</dataType>
-        <expression>true</expression>
-    </formulas>
-    <interviewLabel>CreateObservationsForInspection-1_InterviewLabel</interviewLabel>
+    <interviewLabel>CreateObservationsForInspection-2_InterviewLabel</interviewLabel>
     <label>CreateObservationsForInspection</label>
     <processMetadataValues>
         <name>ObjectType</name>
