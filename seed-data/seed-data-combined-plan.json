@@ -14,21 +14,21 @@
         "files": [
             "seed-data-Property__cs.json"
         ]
+    },
+    {
+        "sobject": "Inspector__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "seed-data-Inspector__cs.json"
+        ]
+    },
+    {
+        "sobject": "Borrower__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "seed-data-Borrower__cs.json"
+        ]
     }
-    // {
-    //     "sobject": "Inspector__c",
-    //     "saveRefs": true,
-    //     "resolveRefs": false,
-    //     "files": [
-    //         "seed-data-Inspector__cs.json"
-    //     ]
-    // },
-    // {
-    //     "sobject": "Borrower__c",
-    //     "saveRefs": true,
-    //     "resolveRefs": false,
-    //     "files": [
-    //         "seed-data-Borrower__cs.json"
-    //     ]
-    // }
 ]

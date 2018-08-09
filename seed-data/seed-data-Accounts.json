@@ -8,29 +8,9 @@
             "Name": "Regions Bank",
             "AccountNumber": "A-0001",
             "Site": "Huntsville",
-            "BillingAddress": {
-                "city": "Huntsville",
-                "country": "United States of America",
-                "geocodeAccuracy": null,
-                "latitude": null,
-                "longitude": null,
-                "postalCode": "34526",
-                "state": "AL",
-                "street": "1000 Commerce Way"
-            },
             "Industry": "Banking",
             "Ownership": "Public",
             "Phone": "256-555-9876",
-            "ShippingAddress": {
-                "city": "Huntsville",
-                "country": "United States of America",
-                "geocodeAccuracy": null,
-                "latitude": null,
-                "longitude": null,
-                "postalCode": "34526",
-                "state": "AL",
-                "street": "1000 Commerce Way"
-            },
             "Type": "Client - Financial Institution"
         },
         {
@@ -41,29 +21,9 @@
             "Name": "Bryant Bank",
             "AccountNumber": "A-0002",
             "Site": "Birmingham",
-            "BillingAddress": {
-                "city": "Birmingham",
-                "country": "United States",
-                "geocodeAccuracy": null,
-                "latitude": null,
-                "longitude": null,
-                "postalCode": "35243",
-                "state": "AL",
-                "street": "123 Hwy 280"
-            },
             "Industry": "Banking",
             "Ownership": "Public",
             "Phone": "256-452-2345",
-            "ShippingAddress": {
-                "city": "Birmingham",
-                "country": "United States",
-                "geocodeAccuracy": null,
-                "latitude": null,
-                "longitude": null,
-                "postalCode": "35243",
-                "state": "AL",
-                "street": "123 Hwy 280"
-            },
             "Type": "Client - Financial Institution",
             "Website": "bryantbank.com"
         }

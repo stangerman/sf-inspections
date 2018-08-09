@@ -1,0 +1,67 @@
+
+sfdx force:data:soql:query --query \
+"SELECT Name, AccountNumber, OwnerID, RecordTypeID, Site, AccountSource, \
+BillingAddress, Industry, Ownership, ParentID, Phone, Primary_Contact__C, \
+ShippingAddress, Type, Website \
+FROM ACCOUNT "
+
+
+sfdx force:data:tree:export --query \
+"SELECT Name, AccountNumber, OwnerID, RecordTypeID, Site, AccountSource, \
+BillingAddress, Industry, Ownership, ParentID, Phone, Primary_Contact__c, \
+ShippingAddress, Type, Website, \
+(SELECT p.Borrower__c, p.City__c, p.CreatedByID, \
+p.Inspector__c, p.Last_Inspection_Date__c, p.LastModifiedById, p.Lender__c, p.Name, \
+p.State__c, p.Street_address__c, p.Zip_Code__c FROM Account.Properties__r p) FROM ACCOUNT" \
+--prefix seed-data --outputdir seed-data --plan
+
+
+
+
+sfdx force:data:soql:query --query \
+"SELECT i.City__c, i.CreatedByID, i.Email__c, i.First_name__c, i.Name, i.Last_Name__c, i.Mobile_phone__c, i.office_phone_c, i.OwnerID, i.State__c, i.Street_address__c, i.Zip_Code__c FROM Inspector__c i"
+
+SELECT i.CreatedByID, i.Date__c, i.name, i.Inspector__c, i.Property__c, i.time__c from Inspection__c
+
+SELECT name, CreatedByID, Email__c, First_name__c, Last_Name__c, Mobile_phone__c, office_phone_c, OwnerID from Borrower__c
+
+
+SELECT Name, AccountNumber, OwnerID, RecordTypeID, Site, AccountSource, BillingAddress, Industry, Ownership, ParentID, Phone, Primary_Contact__c, ShippingAddress, Type, Website, 
+(SELECT p.Borrower__c,
+(SELECT b.name from p.borrower__r b), 
+p.City__c, p.CreatedByID, p.Inspector__c, p.Last_Inspection_Date__c, p.LastModifiedById, p.Lender__c, p.Name, p.State__c, p.Street_address__c, p.Zip_Code__c FROM Account.Properties__r p) 
+FROM ACCOUNT 
+
+
+Select acct.Name, acct.AccountNumber, (SELECT p.Borrower__c, p.borrower__r.name, p.name FROM acct.Properties__r p) FROM ACCOUNT acct
+
+SELECT Name, AccountNumber, OwnerID, RecordTypeID, Site, AccountSource, BillingAddress, Industry, Ownership, ParentID, Phone, Primary_Contact__c, ShippingAddress, Type, Website, 
+  (SELECT p.Borrower__c, p.borrower__r.name, p.borrower__r.Email__c, p.borrower__r.First_name__c, p.borrower__r.Last_Name__c, p.borrower__r.Mobile_phone__c, p.borrower__r.office_phone__c, p.borrower__r.OwnerID, 
+  p.CreatedByID, 
+  p.Inspector__c, p.Inspector__r.City__c, p.Inspector__r.CreatedByID, p.Inspector__r.Email__c, p.Inspector__r.First_name__c, p.Inspector__r.Name, p.Inspector__r.Last_Name__c, p.Inspector__r.Mobile_phone__c, p.Inspector__r.office_phone__c, p.Inspector__r.OwnerID, p.Inspector__r.State__c, p.Inspector__r.Street_address__c, p.Inspector__r.Zip_Code__c,
+  p.Last_Inspection_Date__c, p.LastModifiedById, p.Lender__c, p.Name, p.State__c, p.Street_address__c, p.Zip_Code__c FROM Account.Properties__r p) 
+FROM ACCOUNT 
+
+sfdx force:data:tree:export --query \
+"SELECT Name, AccountNumber, OwnerID, RecordTypeID, Site, AccountSource, \
+BillingAddress, Industry, Ownership, ParentID, Phone, Primary_Contact__c, 
+ShippingAddress, Type, Website, \
+  (SELECT p.Borrower__c, p.borrower__r.name, p.borrower__r.Email__c, p.borrower__r.First_name__c, \
+  p.borrower__r.Last_Name__c, p.borrower__r.Mobile_phone__c, p.borrower__r.office_phone__c,\
+   p.borrower__r.OwnerID, p.CreatedByID, \
+  p.Inspector__c, p.Inspector__r.City__c, p.Inspector__r.CreatedByID, p.Inspector__r.Email__c, \
+  p.Inspector__r.First_name__c, p.Inspector__r.Name, p.Inspector__r.Last_Name__c, \
+  p.Inspector__r.Mobile_phone__c, p.Inspector__r.office_phone__c, p.Inspector__r.OwnerID, \
+  p.Inspector__r.State__c, p.Inspector__r.Street_address__c, p.Inspector__r.Zip_Code__c, \
+    p.Last_Inspection_Date__c, p.LastModifiedById, p.Lender__c, p.Name, p.State__c, \
+    p.Street_address__c, p.Zip_Code__c FROM Account.Properties__r p) \
+FROM ACCOUNT" --prefix seed-data --outputdir seed-data --plan               
+
+sfdx force:data:tree:export --query \
+"SELECT i.City__c, i.CreatedByID, i.Email__c, i.First_name__c, i.Name, i.Last_Name__c, \
+i.Mobile_phone__c, i.office_phone__c, i.OwnerID, i.State__c, i.Street_address__c, i.Zip_Code__c FROM Inspector__c i" \
+--prefix seed-data --outputdir seed-data --plan  
+
+sfdx force:data:tree:export --query \
+"SELECT name, CreatedByID, Email__c, First_name__c, Last_Name__c, Mobile_phone__c, office_phone__c, OwnerID from Borrower__c" \
+--prefix seed-data --outputdir seed-data --plan 

@@ -5,246 +5,78 @@
                 "type": "Property__c",
                 "referenceId": "Property__cRef1"
             },
-            "Borrower__r": {
-                "attributes": {
-                    "type": "Borrower__c",
-                    "url": "/services/data/v43.0/sobjects/Borrower__c/a013F000001GbjsQAC"
-                },
-                "Name": "Jeremy Smith",
-                "Email__c": "jsmith@gmail.com",
-                "First_Name__c": "Jeremy",
-                "Last_Name__c": "Smith",
-                "Mobile_Phone__c": "236-573-2345",
-                "Office_Phone__c": null,
-                "OwnerId": "0053F0000022rEMQAY"
-            },
-            "Inspector__r": {
-                "attributes": {
-                    "type": "Inspector__c",
-                    "url": "/services/data/v43.0/sobjects/Inspector__c/a033F000001rk0DQAQ"
-                },
-                "City__c": "Huntsville",
-                "CreatedById": "0053F0000022rEMQAY",
-                "Email__c": "gdaddy@gmail.com",
-                "First_Name__c": "Randy",
-                "Name": "Randy Dickson",
-                "Last_Name__c": "Dickson",
-                "Mobile_Phone__c": "234-233-5322",
-                "Office_Phone__c": "234-233-5322",
-                "OwnerId": "0053F0000022rEMQAY",
-                "State__c": "AL",
-                "Street_Address__c": "111 Dortmund",
-                "Zip_Code__c": "23425"
-            },
             "Lender__c": "@AccountRef1",
             "Name": "12 Cougar Circle Huntsville, AL",
             "State__c": "AL",
-            "Street_Address__c": "12 Cougar Circle"
+            "Street_Address__c": "12 Cougar Circle",
+            "City__c": "Huntsville",
+            "Inspector__c": "@Inspector__cRef1",
+            "Borrower__c": "@Borrower__cRef1"
         },
         {
             "attributes": {
                 "type": "Property__c",
                 "referenceId": "Property__cRef2"
             },
-            "Borrower__r": {
-                "attributes": {
-                    "type": "Borrower__c",
-                    "url": "/services/data/v43.0/sobjects/Borrower__c/a013F000001Gbk7QAC"
-                },
-                "Name": "Bob Vila",
-                "Email__c": "goodglass@yahoo.com",
-                "First_Name__c": "Bob",
-                "Last_Name__c": "Vila",
-                "Mobile_Phone__c": "324-342-7845",
-                "Office_Phone__c": null,
-                "OwnerId": "0053F0000022rEMQAY"
-            },
-            "Inspector__r": {
-                "attributes": {
-                    "type": "Inspector__c",
-                    "url": "/services/data/v43.0/sobjects/Inspector__c/a033F000001rk0DQAQ"
-                },
-                "City__c": "Huntsville",
-                "CreatedById": "0053F0000022rEMQAY",
-                "Email__c": "gdaddy@gmail.com",
-                "First_Name__c": "Randy",
-                "Name": "Randy Dickson",
-                "Last_Name__c": "Dickson",
-                "Mobile_Phone__c": "234-233-5322",
-                "Office_Phone__c": "234-233-5322",
-                "OwnerId": "0053F0000022rEMQAY",
-                "State__c": "AL",
-                "Street_Address__c": "111 Dortmund",
-                "Zip_Code__c": "23425"
-            },
             "Lender__c": "@AccountRef1",
             "Name": "17 Cougar Circle Huntsville, AL",
             "State__c": "AL",
-            "Street_Address__c": "17 Cougar Circle"
+            "Street_Address__c": "17 Cougar Circle",
+            "City__c": "Huntsville",
+            "Inspector__c": "@Inspector__cRef1",
+            "Borrower__c": "@Borrower__cRef1"
         },
         {
             "attributes": {
                 "type": "Property__c",
                 "referenceId": "Property__cRef3"
             },
-            "Borrower__r": {
-                "attributes": {
-                    "type": "Borrower__c",
-                    "url": "/services/data/v43.0/sobjects/Borrower__c/a013F000001GbkHQAS"
-                },
-                "Name": "Maude Lebowski",
-                "Email__c": "mlebowski@gmail.com",
-                "First_Name__c": "Maude",
-                "Last_Name__c": "Lebowski",
-                "Mobile_Phone__c": "234-432-8844",
-                "Office_Phone__c": null,
-                "OwnerId": "0053F0000022rEMQAY"
-            },
-            "Inspector__r": {
-                "attributes": {
-                    "type": "Inspector__c",
-                    "url": "/services/data/v43.0/sobjects/Inspector__c/a033F000001rk0DQAQ"
-                },
-                "City__c": "Huntsville",
-                "CreatedById": "0053F0000022rEMQAY",
-                "Email__c": "gdaddy@gmail.com",
-                "First_Name__c": "Randy",
-                "Name": "Randy Dickson",
-                "Last_Name__c": "Dickson",
-                "Mobile_Phone__c": "234-233-5322",
-                "Office_Phone__c": "234-233-5322",
-                "OwnerId": "0053F0000022rEMQAY",
-                "State__c": "AL",
-                "Street_Address__c": "111 Dortmund",
-                "Zip_Code__c": "23425"
-            },
             "Lender__c": "@AccountRef2",
             "Name": "235 Jane Lane Madison, AL",
             "State__c": "AL",
-            "Street_Address__c": "235 Jane Lane"
+            "Street_Address__c": "235 Jane Lane",
+            "City__c": "Madison",
+            "Inspector__c": "@Inspector__cRef1",
+            "Borrower__c": "@Borrower__cRef1"
         },
         {
             "attributes": {
                 "type": "Property__c",
                 "referenceId": "Property__cRef4"
             },
-            "Borrower__r": {
-                "attributes": {
-                    "type": "Borrower__c",
-                    "url": "/services/data/v43.0/sobjects/Borrower__c/a013F000001GbjxQAC"
-                },
-                "Name": "Lance James",
-                "Email__c": "lj234@gmail.com",
-                "First_Name__c": "Lance",
-                "Last_Name__c": "James",
-                "Mobile_Phone__c": "234-353-5533",
-                "Office_Phone__c": null,
-                "OwnerId": "0053F0000022rEMQAY"
-            },
-            "Inspector__r": {
-                "attributes": {
-                    "type": "Inspector__c",
-                    "url": "/services/data/v43.0/sobjects/Inspector__c/a033F000001rk0DQAQ"
-                },
-                "City__c": "Huntsville",
-                "CreatedById": "0053F0000022rEMQAY",
-                "Email__c": "gdaddy@gmail.com",
-                "First_Name__c": "Randy",
-                "Name": "Randy Dickson",
-                "Last_Name__c": "Dickson",
-                "Mobile_Phone__c": "234-233-5322",
-                "Office_Phone__c": "234-233-5322",
-                "OwnerId": "0053F0000022rEMQAY",
-                "State__c": "AL",
-                "Street_Address__c": "111 Dortmund",
-                "Zip_Code__c": "23425"
-            },
             "Lender__c": "@AccountRef2",
             "Name": "123 Warrior Court Arab, AL",
             "State__c": "AL",
-            "Street_Address__c": "123 Warrior Court"
+            "Street_Address__c": "123 Warrior Court",
+            "City__c": "Madison",
+            "Inspector__c": "@Inspector__cRef1",
+            "Borrower__c": "@Borrower__cRef1"
         },
         {
             "attributes": {
                 "type": "Property__c",
                 "referenceId": "Property__cRef5"
             },
-            "Borrower__r": {
-                "attributes": {
-                    "type": "Borrower__c",
-                    "url": "/services/data/v43.0/sobjects/Borrower__c/a013F000001GbkCQAS"
-                },
-                "Name": "Jeffrey Lebowski",
-                "Email__c": "thedude@gmail.com",
-                "First_Name__c": "Jeffrey",
-                "Last_Name__c": "Lebowski",
-                "Mobile_Phone__c": "234-878-7766",
-                "Office_Phone__c": null,
-                "OwnerId": "0053F0000022rEMQAY"
-            },
-            "Inspector__r": {
-                "attributes": {
-                    "type": "Inspector__c",
-                    "url": "/services/data/v43.0/sobjects/Inspector__c/a033F000001rk0DQAQ"
-                },
-                "City__c": "Huntsville",
-                "CreatedById": "0053F0000022rEMQAY",
-                "Email__c": "gdaddy@gmail.com",
-                "First_Name__c": "Randy",
-                "Name": "Randy Dickson",
-                "Last_Name__c": "Dickson",
-                "Mobile_Phone__c": "234-233-5322",
-                "Office_Phone__c": "234-233-5322",
-                "OwnerId": "0053F0000022rEMQAY",
-                "State__c": "AL",
-                "Street_Address__c": "111 Dortmund",
-                "Zip_Code__c": "23425"
-            },
             "Lender__c": "@AccountRef2",
             "Name": "234 Jane Lane Madison, AL",
             "State__c": "AL",
-            "Street_Address__c": "234 Jane Lane"
+            "Street_Address__c": "234 Jane Lane",
+            "City__c": "Madison",
+            "Inspector__c": "@Inspector__cRef1",
+            "Borrower__c": "@Borrower__cRef1"
         },
         {
             "attributes": {
                 "type": "Property__c",
                 "referenceId": "Property__cRef6"
             },
-            "Borrower__r": {
-                "attributes": {
-                    "type": "Borrower__c",
-                    "url": "/services/data/v43.0/sobjects/Borrower__c/a013F000001Gbk2QAC"
-                },
-                "Name": "Rosco Hutchins",
-                "Email__c": "bighutch@aol.com",
-                "First_Name__c": "Rosco",
-                "Last_Name__c": "Hutchins",
-                "Mobile_Phone__c": "235-857-2342",
-                "Office_Phone__c": null,
-                "OwnerId": "0053F0000022rEMQAY"
-            },
-            "Inspector__r": {
-                "attributes": {
-                    "type": "Inspector__c",
-                    "url": "/services/data/v43.0/sobjects/Inspector__c/a033F000001rk0DQAQ"
-                },
-                "City__c": "Huntsville",
-                "CreatedById": "0053F0000022rEMQAY",
-                "Email__c": "gdaddy@gmail.com",
-                "First_Name__c": "Randy",
-                "Name": "Randy Dickson",
-                "Last_Name__c": "Dickson",
-                "Mobile_Phone__c": "234-233-5322",
-                "Office_Phone__c": "234-233-5322",
-                "OwnerId": "0053F0000022rEMQAY",
-                "State__c": "AL",
-                "Street_Address__c": "111 Dortmund",
-                "Zip_Code__c": "23425"
-            },
             "Lender__c": "@AccountRef2",
             "Name": "125 Warrior Court Arab, AL",
             "State__c": "AL",
-            "Street_Address__c": "125 Warrior Court"
+            "Street_Address__c": "125 Warrior Court",
+            "City__c": "Madison",
+            "Inspector__c": "@Inspector__cRef1",
+            "Borrower__c": "@Borrower__cRef1"
         }
     ]
 }
