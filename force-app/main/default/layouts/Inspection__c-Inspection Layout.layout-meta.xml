@@ -62,7 +62,12 @@
     </layoutSections>
     <relatedLists>
         <fields>NAME</fields>
+        <fields>Attribute__c</fields>
+        <fields>Value__c</fields>
+        <fields>LAST_UPDATE</fields>
         <relatedList>Observation__c.Inspection__c</relatedList>
+        <sortField>Attribute__c</sortField>
+        <sortOrder>Asc</sortOrder>
     </relatedLists>
     <relatedLists>
         <relatedList>RelatedEntityHistoryList</relatedList>
@@ -95,7 +100,7 @@
     <showRunAssignmentRulesCheckbox>false</showRunAssignmentRulesCheckbox>
     <showSubmitAndAttachButton>false</showSubmitAndAttachButton>
     <summaryLayout>
-        <masterLabel>00h3C000000TW8W</masterLabel>
+        <masterLabel>00hZ0000000qzvt</masterLabel>
         <sizeX>4</sizeX>
         <sizeY>0</sizeY>
         <summaryLayoutStyle>Default</summaryLayoutStyle>
