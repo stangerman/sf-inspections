@@ -24,7 +24,7 @@
             "Street_Address__c": "17 Cougar Circle",
             "City__c": "Huntsville",
             "Inspector__c": "@Inspector__cRef1",
-            "Borrower__c": "@Borrower__cRef1"
+            "Borrower__c": "@Borrower__cRef2"
         },
         {
             "attributes": {
@@ -37,7 +37,7 @@
             "Street_Address__c": "235 Jane Lane",
             "City__c": "Madison",
             "Inspector__c": "@Inspector__cRef1",
-            "Borrower__c": "@Borrower__cRef1"
+            "Borrower__c": "@Borrower__cRef3"
         },
         {
             "attributes": {
@@ -50,7 +50,7 @@
             "Street_Address__c": "123 Warrior Court",
             "City__c": "Madison",
             "Inspector__c": "@Inspector__cRef1",
-            "Borrower__c": "@Borrower__cRef1"
+            "Borrower__c": "@Borrower__cRef4"
         },
         {
             "attributes": {
@@ -63,7 +63,7 @@
             "Street_Address__c": "234 Jane Lane",
             "City__c": "Madison",
             "Inspector__c": "@Inspector__cRef1",
-            "Borrower__c": "@Borrower__cRef1"
+            "Borrower__c": "@Borrower__cRef5"
         },
         {
             "attributes": {
@@ -76,7 +76,7 @@
             "Street_Address__c": "125 Warrior Court",
             "City__c": "Madison",
             "Inspector__c": "@Inspector__cRef1",
-            "Borrower__c": "@Borrower__cRef1"
+            "Borrower__c": "@Borrower__cRef6"
         }
     ]
 }
