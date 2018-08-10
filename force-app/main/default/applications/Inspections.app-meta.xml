@@ -11,9 +11,11 @@
     <navType>Standard</navType>
     <tabs>standard-Account</tabs>
     <tabs>Property__c</tabs>
-    <tabs>Borrower__c</tabs>
-    <tabs>Inspector__c</tabs>
     <tabs>Inspection__c</tabs>
+    <tabs>Inspector__c</tabs>
+    <tabs>Borrower__c</tabs>
+    <tabs>Lender_Attribute_Set__c</tabs>
+    <tabs>Lender_Attribute__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>Inspections_UtilityBar</utilityBar>
 </CustomApplication>

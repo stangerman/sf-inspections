@@ -95,6 +95,9 @@
         <locationX>1024</locationX>
         <locationY>402</locationY>
         <assignRecordIdToReference>varObservationID</assignRecordIdToReference>
+        <connector>
+            <targetReference>Loop_Through_Lender_Attributes</targetReference>
+        </connector>
         <inputAssignments>
             <field>Attribute__c</field>
             <value>

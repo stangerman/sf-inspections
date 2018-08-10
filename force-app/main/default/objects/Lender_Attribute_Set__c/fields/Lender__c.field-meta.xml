@@ -4,8 +4,8 @@
     <externalId>false</externalId>
     <label>Lender</label>
     <referenceTo>Account</referenceTo>
-    <relationshipLabel>LenderAttributeSets</relationshipLabel>
-    <relationshipName>LenderAttributeSets</relationshipName>
+    <relationshipLabel>Lender Attribute Sets</relationshipLabel>
+    <relationshipName>Lender_Attribute_Sets</relationshipName>
     <relationshipOrder>0</relationshipOrder>
     <reparentableMasterDetail>true</reparentableMasterDetail>
     <trackHistory>false</trackHistory>

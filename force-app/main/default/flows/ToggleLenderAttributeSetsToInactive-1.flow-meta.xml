@@ -1,5 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionCalls>
+        <processMetadataValues>
+            <name>ActionCallType</name>
+            <value>
+                <stringValue>flow</stringValue>
+            </value>
+        </processMetadataValues>
+        <processMetadataValues>
+            <name>flowSelection</name>
+            <value>
+                <stringValue>Deactivate Associated Lendor Attr Sets when one is activated</stringValue>
+            </value>
+        </processMetadataValues>
+        <name>myRule_1_A1</name>
+        <label>Deactivate Associated Lendor Attr Sets</label>
+        <locationX>100</locationX>
+        <locationY>200</locationY>
+        <actionName>Deactivate_Associated_Lendor_Attr_Sets_when_one_is_activated</actionName>
+        <actionType>flow</actionType>
+        <inputParameters>
+            <processMetadataValues>
+                <name>dataType</name>
+                <value>
+                    <stringValue>String</stringValue>
+                </value>
+            </processMetadataValues>
+            <processMetadataValues>
+                <name>isRequired</name>
+                <value>
+                    <booleanValue>false</booleanValue>
+                </value>
+            </processMetadataValues>
+            <processMetadataValues>
+                <name>leftHandSideLabel</name>
+                <value>
+                    <stringValue>varLenderAttrSetID</stringValue>
+                </value>
+            </processMetadataValues>
+            <processMetadataValues>
+                <name>maxOccurs</name>
+                <value>
+                    <numberValue>1.0</numberValue>
+                </value>
+            </processMetadataValues>
+            <processMetadataValues>
+                <name>objectType</name>
+                <value>
+                    <stringValue></stringValue>
+                </value>
+            </processMetadataValues>
+            <processMetadataValues>
+                <name>rightHandSideType</name>
+                <value>
+                    <stringValue>Reference</stringValue>
+                </value>
+            </processMetadataValues>
+            <name>varLenderAttrSetID</name>
+            <value>
+                <elementReference>myVariable_current.Id</elementReference>
+            </value>
+        </inputParameters>
+        <inputParameters>
+            <processMetadataValues>
+                <name>dataType</name>
+                <value>
+                    <stringValue>String</stringValue>
+                </value>
+            </processMetadataValues>
+            <processMetadataValues>
+                <name>isRequired</name>
+                <value>
+                    <booleanValue>false</booleanValue>
+                </value>
+            </processMetadataValues>
+            <processMetadataValues>
+                <name>leftHandSideLabel</name>
+                <value>
+                    <stringValue>varLenderId</stringValue>
+                </value>
+            </processMetadataValues>
+            <processMetadataValues>
+                <name>maxOccurs</name>
+                <value>
+                    <numberValue>1.0</numberValue>
+                </value>
+            </processMetadataValues>
+            <processMetadataValues>
+                <name>objectType</name>
+                <value>
+                    <stringValue></stringValue>
+                </value>
+            </processMetadataValues>
+            <processMetadataValues>
+                <name>rightHandSideType</name>
+                <value>
+                    <stringValue>Reference</stringValue>
+                </value>
+            </processMetadataValues>
+            <name>varLenderId</name>
+            <value>
+                <elementReference>myVariable_current.Lender__r.Id</elementReference>
+            </value>
+        </inputParameters>
+    </actionCalls>
     <assignments>
         <name>myVariable_waitStartTimeAssignment</name>
         <label>myVariable_waitStartTimeAssignment</label>
@@ -73,6 +177,9 @@
         <label>Previously Met Decision</label>
         <locationX>100</locationX>
         <locationY>100</locationY>
+        <defaultConnector>
+            <targetReference>myRule_1_A1</targetReference>
+        </defaultConnector>
         <defaultConnectorLabel>Not Previously Met</defaultConnectorLabel>
         <rules>
             <name>myRule_1_pmetnullrule</name>
@@ -84,6 +191,9 @@
                     <booleanValue>true</booleanValue>
                 </rightValue>
             </conditions>
+            <connector>
+                <targetReference>myRule_1_A1</targetReference>
+            </connector>
             <label>Previously Met - Null</label>
         </rules>
         <rules>
@@ -124,12 +234,12 @@
         </rules>
     </decisions>
     <description>When one Lender Attribute Set is set to active, others for the associated lender are deactivated</description>
-    <interviewLabel>ToggleLenderAttributeSetsToInactive-1_InterviewLabel</interviewLabel>
+    <interviewLabel>ToggleLenderAttributeSetsToInactive-4_InterviewLabel</interviewLabel>
     <label>ToggleLenderAttributeSetsToInactive</label>
     <processMetadataValues>
         <name>ObjectType</name>
         <value>
-            <stringValue>LenderAttributeSet__c</stringValue>
+            <stringValue>Lender_Attribute_Set__c</stringValue>
         </value>
     </processMetadataValues>
     <processMetadataValues>
@@ -158,7 +268,7 @@
         <isCollection>false</isCollection>
         <isInput>true</isInput>
         <isOutput>true</isOutput>
-        <objectType>LenderAttributeSet__c</objectType>
+        <objectType>Lender_Attribute_Set__c</objectType>
     </variables>
     <variables>
         <name>myVariable_old</name>
@@ -166,7 +276,7 @@
         <isCollection>false</isCollection>
         <isInput>true</isInput>
         <isOutput>false</isOutput>
-        <objectType>LenderAttributeSet__c</objectType>
+        <objectType>Lender_Attribute_Set__c</objectType>
     </variables>
     <variables>
         <name>myVariable_waitStartTimeVariable</name>

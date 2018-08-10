@@ -3,16 +3,16 @@
     <baseObject>Account</baseObject>
     <category>accounts</category>
     <deployed>true</deployed>
-    <description>Accounts with LenderAttributeSets with Lender Attributes</description>
+    <description>Accounts with Lender Attribute Sets with Lender Attributes</description>
     <join>
         <join>
             <outerJoin>false</outerJoin>
             <relationship>Lender_Attributes__r</relationship>
         </join>
         <outerJoin>false</outerJoin>
-        <relationship>LenderAttributeSets__r</relationship>
+        <relationship>Lender_Attribute_Sets__r</relationship>
     </join>
-    <label>Accounts with LenderAttributeSets with Lender Attributes</label>
+    <label>Accounts with Lender Attribute Sets with Lender Attributes</label>
     <sections>
         <columns>
             <checkedByDefault>false</checkedByDefault>
@@ -290,80 +290,75 @@
         <columns>
             <checkedByDefault>false</checkedByDefault>
             <field>Id</field>
-            <table>Account.LenderAttributeSets__r</table>
+            <table>Account.Lender_Attribute_Sets__r</table>
         </columns>
         <columns>
             <checkedByDefault>true</checkedByDefault>
             <field>Name</field>
-            <table>Account.LenderAttributeSets__r</table>
+            <table>Account.Lender_Attribute_Sets__r</table>
         </columns>
         <columns>
             <checkedByDefault>false</checkedByDefault>
             <field>CreatedDate</field>
-            <table>Account.LenderAttributeSets__r</table>
+            <table>Account.Lender_Attribute_Sets__r</table>
         </columns>
         <columns>
             <checkedByDefault>false</checkedByDefault>
             <field>CreatedBy</field>
-            <table>Account.LenderAttributeSets__r</table>
+            <table>Account.Lender_Attribute_Sets__r</table>
         </columns>
         <columns>
             <checkedByDefault>false</checkedByDefault>
             <field>LastModifiedDate</field>
-            <table>Account.LenderAttributeSets__r</table>
+            <table>Account.Lender_Attribute_Sets__r</table>
         </columns>
         <columns>
             <checkedByDefault>false</checkedByDefault>
             <field>LastModifiedBy</field>
-            <table>Account.LenderAttributeSets__r</table>
+            <table>Account.Lender_Attribute_Sets__r</table>
         </columns>
         <columns>
             <checkedByDefault>false</checkedByDefault>
             <field>LastActivityDate</field>
-            <table>Account.LenderAttributeSets__r</table>
-        </columns>
-        <columns>
-            <checkedByDefault>false</checkedByDefault>
-            <field>LenderLabel__c</field>
-            <table>Account.LenderAttributeSets__r</table>
+            <table>Account.Lender_Attribute_Sets__r</table>
         </columns>
         <columns>
             <checkedByDefault>false</checkedByDefault>
             <field>Active__c</field>
-            <table>Account.LenderAttributeSets__r</table>
+            <table>Account.Lender_Attribute_Sets__r</table>
         </columns>
-        <masterLabel>LenderAttributeSets</masterLabel>
+        <masterLabel>Lender_Attribute_Sets</masterLabel>
     </sections>
     <sections>
         <columns>
             <checkedByDefault>false</checkedByDefault>
             <field>Id</field>
-            <table>Account.LenderAttributeSets__r.Lender_Attributes__r</table>
+            <table>Account.Lender_Attribute_Sets__r.Lender_Attributes__r</table>
         </columns>
         <columns>
             <checkedByDefault>true</checkedByDefault>
             <field>Name</field>
-            <table>Account.LenderAttributeSets__r.Lender_Attributes__r</table>
+            <table>Account.Lender_Attribute_Sets__r.Lender_Attributes__r</table>
         </columns>
         <columns>
             <checkedByDefault>false</checkedByDefault>
             <field>CreatedDate</field>
-            <table>Account.LenderAttributeSets__r.Lender_Attributes__r</table>
+            <table>Account.Lender_Attribute_Sets__r.Lender_Attributes__r</table>
         </columns>
         <columns>
             <checkedByDefault>false</checkedByDefault>
             <field>CreatedBy</field>
-            <table>Account.LenderAttributeSets__r.Lender_Attributes__r</table>
+            <table>Account.Lender_Attribute_Sets__r.Lender_Attributes__r</table>
         </columns>
         <columns>
             <checkedByDefault>false</checkedByDefault>
             <field>LastModifiedDate</field>
-            <table>Account.LenderAttributeSets__r.Lender_Attributes__r</table>
+            <table>Account.Lender_Attribute_Sets__r.Lender_Attributes__r</table>
         </columns>
         <columns>
             <checkedByDefault>false</checkedByDefault>
             <field>LastModifiedBy</field>
-            <table>Account.LenderAttributeSets__r.Lender_Attributes__r</table>
+            <table>Account.Lender_Attribute_Sets__r.Lender_Attributes__r</table>
         </columns>
         <masterLabel>Lender Attributes</masterLabel>
     </sections>

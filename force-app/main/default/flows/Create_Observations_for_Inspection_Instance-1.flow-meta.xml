@@ -24,7 +24,7 @@
             <name>Lender_Attr_ID_Set</name>
             <conditionLogic>and</conditionLogic>
             <conditions>
-                <leftValueReference>varLenderAttrSetObject.Id</leftValueReference>
+                <leftValueReference>varLenderAttrObject.Id</leftValueReference>
                 <operator>WasSet</operator>
                 <rightValue>
                     <booleanValue>true</booleanValue>

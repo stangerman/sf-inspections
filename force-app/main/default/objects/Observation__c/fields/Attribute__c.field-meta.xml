@@ -4,7 +4,7 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <externalId>false</externalId>
     <label>Attribute</label>
-    <referenceTo>Attribute__c</referenceTo>
+    <referenceTo>Lender_Attribute__c</referenceTo>
     <relationshipLabel>Observations</relationshipLabel>
     <relationshipName>Observations</relationshipName>
     <required>false</required>

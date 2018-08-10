@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>LenderAttributeSet__c</fullName>
+    <fullName>Lender_Attribute_Set__c</fullName>
     <description>Parent attribute set for the account/lender</description>
     <externalId>false</externalId>
-    <label>LenderAttributeSet</label>
-    <referenceTo>LenderAttributeSet__c</referenceTo>
+    <label>Lender Attribute Set</label>
+    <referenceTo>Lender_Attribute_Set__c</referenceTo>
     <relationshipLabel>Lender Attributes</relationshipLabel>
     <relationshipName>Lender_Attributes</relationshipName>
     <relationshipOrder>0</relationshipOrder>
