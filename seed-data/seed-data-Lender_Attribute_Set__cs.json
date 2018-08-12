@@ -1,0 +1,18 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Lender_Attribute_Set__c",
+                "referenceId": "Lender_Attribute_Set__cRef1"
+            },
+            "Name": "LAS-0001"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute_Set__c",
+                "referenceId": "Lender_Attribute_Set__cRef2"
+            },
+            "Name": "LAS-0000"
+        }
+    ]
+}

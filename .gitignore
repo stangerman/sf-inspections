@@ -1,7 +1,7 @@
 # Directories #
 ###################
-.sfdx/
-.vscode/
+./sfdx/
+./vscode/
 
 # Compiled source #
 ###################

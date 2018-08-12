@@ -65,3 +65,25 @@ i.Mobile_phone__c, i.office_phone__c, i.OwnerID, i.State__c, i.Street_address__c
 sfdx force:data:tree:export --query \
 "SELECT name, CreatedByID, Email__c, First_name__c, Last_Name__c, Mobile_phone__c, office_phone__c, OwnerID from Borrower__c" \
 --prefix seed-data --outputdir seed-data --plan 
+
+sfdx force:data:soql:query --query \
+Select Id, Name, Lender__c \
+FROM Lender_Attribute_Set__C 
+
+sfdx force:data:soql:query --query \
+"Select Id, Name, Lender__c, (SELECT Id, Name, Lender_Attribute_Set__c \
+FROM las.Lender_Attributes__r) \
+FROM Lender_Attribute_Set__C las"
+
+
+sfdx force:data:tree:export --query \
+"Select Id, Name, Lender__c, (SELECT Id, Name, Lender_Attribute_Set__c \
+FROM las.Lender_Attributes__r) \
+FROM Lender_Attribute_Set__C las" \
+--prefix seed-data --outputdir seed-data --plan 
+
+sfdx force:data:tree:export --query \
+"Select Id, Name, Inspector__c, Property__c, \
+(Select Id, Name, Inspection__c, Attribute__c, Value__c from Inspection__c.Observations__r) \
+FROM Inspection__C" \
+--prefix seed-data --outputdir seed-data --plan 

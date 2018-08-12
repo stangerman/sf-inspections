@@ -30,6 +30,38 @@
         "files": [
             "seed-data-Property__cs.json"
         ]
+    },
+    {
+        "sobject": "Inspection__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "seed-data-Inspection__cs.json"
+        ]
+    },
+    {
+        "sobject": "Lender_Attribute_Set__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "seed-data-Lender_Attribute_Set__cs.json"
+        ]
+    },
+    {
+        "sobject": "Lender_Attribute__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "seed-data-Lender_Attribute__cs.json"
+        ]
+    },
+    {
+        "sobject": "Observation__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "seed-data-Observation__cs.json"
+        ]
     }
 
 

@@ -1,0 +1,18 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Inspection__c",
+                "referenceId": "Inspection__cRef1"
+            },
+            "Property__c": "@Property__cRef6"
+        },
+        {
+            "attributes": {
+                "type": "Inspection__c",
+                "referenceId": "Inspection__cRef2"
+            },
+            "Property__c": "@Property__cRef2"
+        }
+    ]
+}

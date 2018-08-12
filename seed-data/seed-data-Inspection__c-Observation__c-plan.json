@@ -1,0 +1,18 @@
+[
+    {
+        "sobject": "Inspection__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "seed-data-Inspection__cs.json"
+        ]
+    },
+    {
+        "sobject": "Observation__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "seed-data-Observation__cs.json"
+        ]
+    }
+]

@@ -1,0 +1,628 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef1"
+            },
+            "Name": "Landscaping",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef2"
+            },
+            "Name": "Appliances",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef3"
+            },
+            "Name": "A/C Compressors/HVAC Trim Out",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef4"
+            },
+            "Name": "Electrical Fixtures",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef5"
+            },
+            "Name": "Plumbing Fixtures             89%",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef6"
+            },
+            "Name": "Ceramic Tile/Vinyl",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef7"
+            },
+            "Name": "Carpet",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef8"
+            },
+            "Name": "Hardware",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef9"
+            },
+            "Name": "Interior Paint & Wall Coverings",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef10"
+            },
+            "Name": "Interior Prime",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef11"
+            },
+            "Name": "Gutters/Douwnspouts",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef12"
+            },
+            "Name": "Exterior Painting",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef13"
+            },
+            "Name": "Wood Decks",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef14"
+            },
+            "Name": "Driveway/Patios/Walks",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef15"
+            },
+            "Name": "Interior Trim & Millwork",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef16"
+            },
+            "Name": "Interior Doors                    69%",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef17"
+            },
+            "Name": "Cabinet/Vanity Tops",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef18"
+            },
+            "Name": "Cabinets/Vanities",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef19"
+            },
+            "Name": "Hardwood Floors",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef20"
+            },
+            "Name": "Sheetrock Finished",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef21"
+            },
+            "Name": "Sheetrock Started",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef22"
+            },
+            "Name": "Attic Insulation",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef23"
+            },
+            "Name": "Wall Insulation",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef24"
+            },
+            "Name": "Exterior Prime",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef25"
+            },
+            "Name": "Exterior Veneer Finished    51%",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef26"
+            },
+            "Name": "Exterior Veneer Started",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef27"
+            },
+            "Name": "Cornice/Fascia",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef28"
+            },
+            "Name": "Exterior Doors/Windows",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef29"
+            },
+            "Name": "Garage Doors",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef30"
+            },
+            "Name": "Permanent Roof",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef31"
+            },
+            "Name": "Fireplace",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef32"
+            },
+            "Name": "Furnaces",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef33"
+            },
+            "Name": "Electrical Rough",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef34"
+            },
+            "Name": "HVAC Rough (Ducts)",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef35"
+            },
+            "Name": "Plumbing Rough/Tub            30%",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef36"
+            },
+            "Name": "Framing: Roof Rafters/Sheathing",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef37"
+            },
+            "Name": "Framing: Walls/Studs/Sheathing",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef38"
+            },
+            "Name": "Framing: Floors/Subfloors",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef39"
+            },
+            "Name": "Slab",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef40"
+            },
+            "Name": "Foundation Walls",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef41"
+            },
+            "Name": "Footings",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef42"
+            },
+            "Name": "Septic Tank/Sewer",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef43"
+            },
+            "Name": "Clearing/Grading",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef44"
+            },
+            "Name": "Cleanup",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef45"
+            },
+            "Name": "Footings",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef46"
+            },
+            "Name": "Driveway and Sidewalks",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef47"
+            },
+            "Name": "Deck / Patio",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef48"
+            },
+            "Name": "Gutters and Downspouts",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef49"
+            },
+            "Name": "Sewer / Septic Tank",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef50"
+            },
+            "Name": "Electrical Fixtures",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef51"
+            },
+            "Name": "Plumbing - Fixtures",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef52"
+            },
+            "Name": "Kitchen Appliances",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef53"
+            },
+            "Name": "Flooring (Carpet, Vinyl, Wood)",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef54"
+            },
+            "Name": "Interior Painting and Wallpaper",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef55"
+            },
+            "Name": "Marble Tops",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef56"
+            },
+            "Name": "Cabinets",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef57"
+            },
+            "Name": "Interior Trim",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef58"
+            },
+            "Name": "Brick / Siding / Drivit",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef59"
+            },
+            "Name": "HAVA Unit Set",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef60"
+            },
+            "Name": "Sheetrock (Taped and Finished)",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef61"
+            },
+            "Name": "Sheetrock",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef62"
+            },
+            "Name": "Insulation",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef63"
+            },
+            "Name": "Tubs and Showers",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef64"
+            },
+            "Name": "Fireplace",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef65"
+            },
+            "Name": "HAVAC Rough (Ductwork)",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef66"
+            },
+            "Name": "Wiring - Rough",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef67"
+            },
+            "Name": "Plumbing - Rough",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef68"
+            },
+            "Name": "Roofing Shingles",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef69"
+            },
+            "Name": "Cornice",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef70"
+            },
+            "Name": "Exterior Doors and Windows",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef71"
+            },
+            "Name": "Roof Sheathing",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef72"
+            },
+            "Name": "Roof Framing",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef73"
+            },
+            "Name": "Wall Sheathing",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef74"
+            },
+            "Name": "Partition Framing",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef75"
+            },
+            "Name": "Floor Framing / Sub-Floor",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef76"
+            },
+            "Name": "Basement Floor",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef77"
+            },
+            "Name": "Foundations / Retaining Walls",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Lender_Attribute__c",
+                "referenceId": "Lender_Attribute__cRef78"
+            },
+            "Name": "Landscaping",
+            "Lender_Attribute_Set__c": "@Lender_Attribute_Set__cRef2"
+        }
+    ]
+}
